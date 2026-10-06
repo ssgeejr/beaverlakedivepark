@@ -17,6 +17,7 @@ Check out **Patrick Danko's Dive Map** on Google Earth:
 
 | Image | Description |
 |-------|-------------|
+| ![](beaverlakeAICompile.jpg) | **Badlands Dive Map** |
 | ![](01.png) | **Isometric View** |
 | ![](02.jpg) | **Line Map #1** |
 | ![](03.jpg) | **Line Map #2** |
